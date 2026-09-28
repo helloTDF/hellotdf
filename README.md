@@ -3,7 +3,7 @@ A working guide for teammates — how I approach design, when to bring me in, ho
 
   `🔭 I’m currently reading Atomic Habits, James Clear`
  
-  `🌱 I’m currently learning more about Kk8s`   
+  `🌱 I’m currently learning more about K8s`   
   
   `💬 Ask me about Storymapping and Systems design`
   
