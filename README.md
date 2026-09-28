@@ -2,8 +2,11 @@
 A working guide for teammates — how I approach design, when to bring me in, how I give and like to receive feedback, and how to get the most out of our collaboration.
 
   `🔭 I’m currently reading Atomic Habits, James Clear`
+ 
   `🌱 I’m currently learning more about Kk8s`   
+  
   `💬 Ask me about Storymapping and Systems design`
+  
   `⚡ Fun fact: I come from a long line of builders, deconstructing problems in systems excite me`
 
 
