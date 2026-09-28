@@ -1,15 +1,10 @@
 ## About this doc
 A working guide for teammates — how I approach design, when to bring me in, how I give and like to receive feedback, and how to get the most out of our collaboration.
 
-  `🔭 I’m currently working at IBM`
-  
-  `🌱 I’m currently learning more about Kubernetes`
-  
+  `🔭 I’m currently reading Atomic Habits, James Clear`
+  `🌱 I’m currently learning more about Kk8s`   
   `💬 Ask me about Storymapping and Systems design`
-  
-  `📫 You can reach me at tristandfree@pm.me`
-  
-  `⚡ Fun fact: I come from a long line of builders, inherently enjoy understanding problems in systems`
+  `⚡ Fun fact: I come from a long line of builders, deconstructing problems in systems excite me`
 
 
 ## How I work
