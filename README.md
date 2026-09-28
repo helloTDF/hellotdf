@@ -1,5 +1,3 @@
-
-
 ## About this doc
 A working guide for teammates — how I approach design, when to bring me in, how I give and like to receive feedback, and how to get the most out of our collaboration.
 
@@ -35,7 +33,7 @@ About the problem
 
 About the work
 - [ ] Are there related or prior design work I should align with?
-- [ ] Is there an existing API, or architecture? I'd LOVE to see it or get involved with it.
+- [ ] Is there an existing API, or architecture?
 - [ ] Is there an existing design I'm reviewing, or are we in discovery?
 - [ ] What fidelity is needed: rough exploration, full spec, or final redlines?
 - [ ] Who is the engineering lead?
