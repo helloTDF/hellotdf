@@ -5,13 +5,11 @@ This README explains what I own, how to collaborate with me effectively, and whe
 <details>
 <summary>About me</summary>
   
-  `🌱 Currently learning more about K8s.`   
-
-  `🔭 Currently reading Atomic Habits, James Clear.`
+  `Currently in the NY Metropolitan area`
+  
+  `Sr. Product Designer in AIOps and IT Automation`   
  
   `💬 Ask me about Systems design.`
-  
-  `⚡ Fun fact: I come from a long line of builders; deconstructing problems in systems excites me.`
 </details>
 
 <details>
@@ -42,7 +40,7 @@ Before feature kickoff, make sure you can answer these. If you cannot, that's ex
 <details>
 <summary>About the work</summary>
 
-- [ ] Is there an Epic in Aha!?
+- [ ] Is there an Epic?
 - [ ] Are there related epics or prior design work I should align with?
 - [ ] Is there an existing API, or architecture?
 - [ ] Is there an existing design I'm reviewing, or are we in discovery?
@@ -57,13 +55,13 @@ Before feature kickoff, make sure you can answer these. If you cannot, that's ex
 - Confidence before commitment — team validation that the problem is real and the approach is sound before investing in hi-fi
 - Shared understanding early — getting Content, Engineering, PM, and Design aligned at the start so decisions are made once
 - Reasoning that travels — writing design decisions as structured artifacts, ensuring context survival with changes
-- System and feature coherence** — working at both the platform and pattern level (tokens, IA, Carbon) and the feature level (flows, copy, component choices) at the same time
+- System and feature coherence — working at both the platform and pattern level (tokens, IA, Carbon) and the feature level (flows, copy, component choices) at the same time
 - Clear acceptance criteria — design reviews end with a shared definition of done and there's no ambiguity at QA.
 - Meetings – Create 4-in-a-box calls (Research, Design and content, Engineering, PM)
-- Design artifacts – Figma, walkthrough videos (notify @you in Slack team channels and/or the Jira)
+- Design artifacts – Figma, walkthrough videos
 </details>
 <details>
-<summary>To set my sail</summary>
+<summary>Set up for success</summary>
 
 - Ask questions directly on the artifact, team Slack channels, or the associated ticket(s); so context is preserved and there's transparency
 - Flag technical blockers early. I want to know about a constraint within week 1.
