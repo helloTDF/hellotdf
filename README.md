@@ -5,23 +5,23 @@ This README explains what I own, how to collaborate with me effectively, and whe
 <details>
 <summary>About me</summary>
   
-  `🌱 I’m currently learning more about K8s`   
+  `🌱 Currently learning more about K8s.`   
 
-  `🔭 I’m currently reading Atomic Habits, James Clear`
+  `🔭 Currently reading Atomic Habits, James Clear.`
  
-  `💬 Ask me about Storymapping and Systems design`
+  `💬 Ask me about Systems design.`
   
-  `⚡ Fun fact: I come from a long line of builders, deconstructing problems in systems excite me`
+  `⚡ Fun fact: I come from a long line of builders; deconstructing problems in systems excites me.`
 </details>
 
 <details>
 <summary>Bringing me in and what to expect</summary>
-The purpose of product discovery is to quickly separate the good ideas from the bad. **The output of discovery is a validated product backlog**, not designs. Discovery is how we build confidence that we're solving a real problem, for real users, in a way that's viable for the business and feasible to build.
+The purpose of product discovery is to quickly separate the good ideas from the mediocre. Discovery outputs a validated product backlog, not designs. Discovery builds confidence that we're solving a real problem for real users in a way that's viable for the business and feasible to build.
 </details>
 
 <details>
 <summary>About our users</summary>
-Before feature kickoff make sure you can answer these. If you cannot, that's exactly when to loop me in!
+Before feature kickoff, make sure you can answer these. If you cannot, that's exactly when to loop me in!
 
 - [ ] Who are the customers in need of this feature (and what is their role, technical level, and task context)?
 - [ ] What job are they trying to get done
@@ -31,20 +31,10 @@ Before feature kickoff make sure you can answer these. If you cannot, that's exa
 </details>
 
 <details>
-<summary>About the problem</summary>
-
-  
-- [ ] What user need or pain is this feature addressing?
-- [ ] Is there existing research, feedback, or telemetry data I can review before kick off?
-- [ ] What's in scope?
-- [ ] Are there technical or data constraints that will limit design options?
-</details>
-
-<details>
   <summary>About the problem</summary>
 
 - [ ] What user need or pain is this feature addressing?
-- [ ] Is there existing research, feedback, or telemetry data I can review before kick off?
+- [ ] Is there existing research, feedback, or telemetry data I can review before kickoff?
 - [ ] What's in scope?
 - [ ] Are there technical or data constraints that will limit design options?
 </details>
@@ -75,7 +65,7 @@ Before feature kickoff make sure you can answer these. If you cannot, that's exa
 <details>
 <summary>To set my sail</summary>
 
-- Ask questions directly on the artifact, team slack channels or the associated ticket(s);no DMs, so context is preserved and there's transparency
+- Ask questions directly on the artifact, team Slack channels, or the associated ticket(s); so context is preserved and there's transparency
 - Flag technical blockers early. I want to know about a constraint within week 1.
 </details>
 
@@ -85,14 +75,14 @@ Before feature kickoff make sure you can answer these. If you cannot, that's exa
 - [ ] Design review reports
 - [ ] Design prototypes
 - [ ] Dashboard and analytics specifications
-- [ ] User stories, journeymaps, storymaps and flow narratives
+- [ ] User stories, journey maps, story maps, and flow narratives
 - [ ] (IA) Information architecture maps
 - [ ] Flow scripts & prototypes
 </details>
 
 <details>
   <summary>Contact</summary>
-  For design questions, or to kick off new work email me at tristandfree@pm.me
+  For design questions or to kick off new work, email me at tristandfree@pm.me
 </details>
 
 ---
