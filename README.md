@@ -1,7 +1,7 @@
 This README explains what I own, how to collaborate with me effectively, and where to find design artifacts.
 
 ## Bringing me in and what to expect
-The purpose of product discovery is to quickly separate the good ideas from the bad. **The output of discovery is a validated product backlog**, not designs. Discovery is how we build confidence that we're solving a real problem, for real users, in a way that's viable for the business and feasible to build.
+The purpose of product discovery is to quickly separate the good ideas from the mediocre. **The output of discovery is a validated product backlog**, not designs. Discovery is how we build confidence that we're solving a real problem, for real users, in a way that's viable for the business and feasible to build.
 
 
 
