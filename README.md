@@ -1,4 +1,4 @@
-![Role](https://img.shields.io/badge/Role-Sr.%20Product%20Designer-2f6fed?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Senior%20Product%20Designer-2f6fed?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-AIOps%20%26%20IT%20Automation-555?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-NY%20Metropolitan-555?style=flat-square)
 
