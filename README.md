@@ -1,4 +1,4 @@
-![Role](https://img.shields.io/badge/Role-Senior%20Product%20Designer-2f6fed?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Design%20Lead-2f6fed?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-AIOps%20%26%20IT%20Automation-555?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-NY%20Metropolitan-555?style=flat-square)
 
@@ -14,7 +14,7 @@ The purpose of product discovery is to quickly separate the good ideas from the 
   
   `Senior Product Designer in AIOps and IT Automation`   
  
-  `💬 Ask me about Systems design.`
+  `💬 Ask me about service design.`
 </details>
 
 <details>
