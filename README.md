@@ -22,9 +22,19 @@ I work best on unclear problems where framing matters more than hi-fi details. â
 Before I design anything, I want to know who the users are (their role, technical level, and task context), what job they're trying to get done, what success looks like, and where they're uncertain today. 
 
 Early, I want to hear what research has been done, what telemetry data or hooks are available, the scope, and the API design, so the design options are practical. I bring opinions with tradeoffs rather than a single answer. I collaboratively frame fuzzy problems, capture assumptions, and poke holes before going deep. I'll challenge assumptions, express my thoughts, then commit.
+</details>
 
-  
-My design artifacts include customer/journey maps, story maps, flow narratives, information architecture maps, prototypes, design review reports, and dashboard and analytics specs.
+  <details>
+<summary>My design artifacts include</summary>
+
+- [ ] Customer/journey maps
+- [ ] Storymaps
+- [ ] Flow narratives
+- [ ] Information architecture maps
+- [ ] Prototypes
+- [ ] Design review reports
+- [ ] Dashboard
+- [ ] Analytics specs.
 </details>
 
 Contact: 
